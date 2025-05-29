@@ -1,6 +1,6 @@
 # University-sql-database
 
-# University Database Management System
+### University Database Management System
 
 ## Project Overview
 This project is a comprehensive **University Database Management System** designed to manage and streamline various administrative and academic operations within a university. It demonstrates the effective use of **SQL** for database creation, data manipulation, and query optimization.
